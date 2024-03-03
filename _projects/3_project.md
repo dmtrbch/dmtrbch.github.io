@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
+title: Vue.js Forum
+description: Forum application built with Vue; Vuex for State management; Firebase for Third-party authentication and Realtime Database
 img: assets/img/7.jpg
-redirect: https://unsplash.com
-importance: 3
-category: work
+redirect: https://vue-forum-635e1.web.app/
+importance: 1
+category: web2
 ---
 
 Every project has a beautiful feature showcase page.
