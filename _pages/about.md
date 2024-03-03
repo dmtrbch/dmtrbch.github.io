@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Solidity & Frontend Engineer
+subtitle: Smart Contract / Web Developer
 
 profile:
   align: right
