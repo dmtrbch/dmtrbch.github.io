@@ -11,7 +11,7 @@ profile:
   address: >
     <p style="color: #B509AC">Solidity, Foundry, Hardhat, wagmi, Ethers.js</p>
     <p style="color: #2698BA">React, Next.js, Vue.js, Angular, TypeScript, JavaScript</p>
-    <p style="color: #6A9955">NestJS, Node.js</p>
+    <p style="color: #6A9955">Express, Fastify, NestJS, Node.js</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
