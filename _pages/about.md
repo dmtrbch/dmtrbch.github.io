@@ -19,6 +19,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Highly skilled web developer and Solidity developer with a passion for building high-performant web applications and secure smart contracts. With expertise in libraries and frameworks such as React, Next.js, Vue.js, and Angular, I excel in delivering exceptional user experiences and robust web solutions.
-
-As a Solidity developer, I have extensive experience in creating secure and gas-efficient smart contracts. Proficient in Solidity, Foundry, Hardhat, Truffle Framework, web3.js, and Ethers.js, I deeply understand blockchain technologies, the EVM, and the whole Ethereum ecosystem in general.
+Filling the void between the pixels and the EVM.
