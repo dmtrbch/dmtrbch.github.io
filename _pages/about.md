@@ -6,7 +6,7 @@ subtitle: Smart Contract / Web Developer
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
   address: >
     <p style="color: #B509AC">Solidity, Foundry, Hardhat, wagmi, Ethers.js</p>
